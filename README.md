@@ -1,5 +1,1 @@
-# YeseniaMartinez
-
-Chiquitina
-
-**Rodrigo Vega**
+# Rodrigo Vega
